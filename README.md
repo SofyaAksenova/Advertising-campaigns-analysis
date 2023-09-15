@@ -1,2 +1,4 @@
-# Advertising-campaigns-analysis
-Analysis of an outcome of conducted advertising campaigns
+# Анализ результатов проведенных рекламных кампаний
+Пятью медиабайерами были проведены рекламные кампании, результаты которых были собраны и отображены в датасете "test_data.csv". В файле блокнота "notebook.ipynb" представлены выводы по анализу результатов проведенных рекламных кампаний, в том числе сравнение самих кампаний, медиабайеров, которыми они были проведены, и геолокаций, в которых они проводились, по CTR (Click-through rate), ROI (Return on Investment), RPI - CPI (Revenue per Install - Cost per Install) и выручке.
+
+В работе использовался язык Python, в том числе его библиотеки Pandas и Plotly Express.
